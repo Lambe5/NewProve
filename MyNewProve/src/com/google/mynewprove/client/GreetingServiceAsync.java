@@ -9,4 +9,5 @@ public interface GreetingServiceAsync {
 	void greetServer(String input, AsyncCallback<String> callback) throws IllegalArgumentException;//
 	//buuuuu
 	//ciaociao
+	//cacca freddo via
 }
