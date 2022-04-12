@@ -13,5 +13,6 @@ public interface GreetingServiceAsync {
 	//stronzo
 	//imbecille
 	//cretino
-  //scemo di merda
+    //scemo di merda
+	//altro commento
 }
