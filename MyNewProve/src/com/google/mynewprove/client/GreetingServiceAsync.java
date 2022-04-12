@@ -11,4 +11,5 @@ public interface GreetingServiceAsync {
 	//ciaociao
 	//cacca freddo via
 	//stronzo
+	//imbecille
 }
